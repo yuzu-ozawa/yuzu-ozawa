@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuzu-ozawa
 - 👀 I’m interested in ...philosophy, sociology, anime
-- 🌱 I’m currently learning ...stock investment
+- 🌱 I’m currently learning ...php, stock investment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...telepathy
 - 😄 Pronouns: ...they/them
